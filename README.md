@@ -134,14 +134,14 @@
 <section>
     <h2>4. Desventajas o Contras del Agitador Magnetico</h2>
     <div class="text-container">
-        <p>Si bien los agitadores magn�ticos son herramientas extremadamente �tiles en muchos laboratorios, presentan algunas limitaciones o desventajas:</p>
+        <p>Si bien los agitadores magneticos son herramientas extremadamente utiles en muchos laboratorios, presentan algunas limitaciones o desventajas:</p>
         <ul>
-            <li><strong>Capacidad limitada:</strong> Aunque existen modelos de alto rendimiento, en general, los agitadores magn�ticos no son adecuados para grandes vol�menes de l�quido, especialmente en concentraciones altas de s�lidos.</li>
-            <li><strong>Calor excesivo:</strong> En los modelos con calefacci�n, si no se controlan correctamente, el calor puede causar problemas en las soluciones sensibles a la temperatura, como reacciones exerg�nicas o la degradaci�n de componentes.</li>
-            <li><strong>Falta de control de la velocidad en algunos modelos:</strong> Aunque muchos dispositivos modernos permiten un control preciso de la velocidad, algunos modelos b�sicos no ofrecen esta funcionalidad.</li>
-            <li><strong>Limitaci�n para l�quidos muy viscosos:</strong> Los l�quidos con alta viscosidad pueden dificultar la rotaci�n de la barra magn�tica, lo que reduce la eficacia de la mezcla.</li>
-            <li><strong>Dependencia de la barra magn�tica:</strong> Si la barra magn�tica no es de buena calidad o est� mal posicionada, la agitaci�n no ser� eficiente. Adem�s, algunas barras magn�ticas pueden desmagnetizarse con el tiempo.</li>
-            <li><strong>Precio:</strong> Los modelos de alta calidad, especialmente los que cuentan con control digital o calefacci�n, pueden ser costosos, lo que limita su accesibilidad en algunos laboratorios peque�os.</li>
+            <li><strong>Capacidad limitada:</strong> Aunque existen modelos de alto rendimiento, en general, los agitadores magneticos no son adecuados para grandes volumenes de liquido, especialmente en concentraciones altas de solidos.</li>
+            <li><strong>Calor excesivo:</strong> En los modelos con calefaccion, si no se controlan correctamente, el calor puede causar problemas en las soluciones sensibles a la temperatura, como reacciones exergenicas o la degradacion de componentes.</li>
+            <li><strong>Falta de control de la velocidad en algunos modelos:</strong> Aunque muchos dispositivos modernos permiten un control preciso de la velocidad, algunos modelos basicos no ofrecen esta funcionalidad.</li>
+            <li><strong>Limitacion para liquidos muy viscosos:</strong> Los liquidos con alta viscosidad pueden dificultar la rotacion de la barra magnetica, lo que reduce la eficacia de la mezcla.</li>
+            <li><strong>Dependencia de la barra magnetica:</strong> Si la barra magnetica no es de buena calidad o esta mal posicionada, la agitacion no sera eficiente. Ademas, algunas barras magneticas pueden desmagnetizarse con el tiempo.</li>
+            <li><strong>Precio:</strong> Los modelos de alta calidad, especialmente los que cuentan con control digital o calefaccion, pueden ser costosos, lo que limita su accesibilidad en algunos laboratorios pequeños.</li>
         </ul>
     </div>
 </section>
@@ -151,7 +151,7 @@
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>
 <footer>
-    <p>Informaci�n sobre el agitador magnetico | Dise�o educativo</p>
+    <p>Informacikn sobre el agitador magnetico | Diseño educativo</p>
 </footer>
 
 </body>
